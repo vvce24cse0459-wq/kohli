@@ -1,1 +1,1 @@
-print("kohli")
+print(" king kohli")
